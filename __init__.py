@@ -1,4 +1,4 @@
-﻿import sys
+import sys
 from os.path import dirname, abspath
 
 from adapt.intent import IntentBuilder
@@ -14,19 +14,19 @@ dr = __import__('dr')
 
 logger = getLogger(__name__)
 
-__author__ = 'tjoen'
+__author__ = 'montou'
 
 
-class DutchRadio(MycroftSkill):
+class FrenchRadio(MycroftSkill):
     def __init__(self):
-        super(DutchRadio, self).__init__('Dutch Radio')
-        self.dr = dr.DutchRadio()
+        super(FrenchRadio, self).__init__('French Radio')
+        self.dr = dr.FrenchRadio()
         self.process = None
 
     def initialize(self):
-        logger.info('initializing DutchRadio')
+        logger.info('initializing FrenchRadio')
         self.load_data_files(dirname(__file__))
-        super(DutchRadio, self).initialize()
+        super(FrenchRadio, self).initialize()
 
         for c in self.dr.channels.keys():
             self.register_vocabulary(c, 'ChannelKeyword')
@@ -91,4 +91,4 @@ class DutchRadio(MycroftSkill):
 
 
 def create_skill():
-    return DutchRadio()
+    return FrenchRadio()
