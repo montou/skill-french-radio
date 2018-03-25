@@ -1,4 +1,4 @@
-﻿import csv
+import csv
 
 from collections import OrderedDict
 
@@ -9,10 +9,10 @@ class Channel():
         self.stream_url = stream_url
 
 
-class DutchRadio():
+class FrenchRadio():
     def __init__(self):
         indx = 0
-        r = open('/opt/mycroft/skills/skill-dutch-radio/radio.csv', 'r')
+        r = open('/opt/mycroft/skills/skill-french-radio/radio.csv', 'r')
         reader = csv.reader(r, delimiter=',')
         channellist = list(reader)
         self.channels = {}
