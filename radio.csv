@@ -1,4 +1,3 @@
-3fm,http://icecast.omroep.nl/3fm-bb-mp3	   
 oui fm,http://stream.ouifm.fr/ouifm-hd.mp3
 skyrock,http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
 virgin radio,http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3
@@ -7,4 +6,11 @@ nova,http://novazz.ice.infomaniak.ch/novazz-128.mp3
 nrj,http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
 rire,http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
 fun radio,http://streaming.radio.funradio.fr/fun-1-48-192
-evasion,http://stream1.evasionfm.com/Oise.m3u
+rtl2, http://streaming.radio.rtl2.fr/rtl2-1-48-192
+generations,http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+latina, http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+vibration,http://vibration.ice.infomaniak.ch/vibration-high.mp3
+voltage,http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
+ado,http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
+chante france,http://stream1.chantefrance.com/Chante_France
+africa, http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
