@@ -14,7 +14,7 @@ m radio,http://mfm.ice.infomaniak.ch/mfm-128.mp3
 mouv,http://direct.mouv.fr/live/mouv-midfi.mp3
 nostalgie France,http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
 nova,http://novazz.ice.infomaniak.ch/novazz-128.mp3
-nrj ,http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios		
+nrj,http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios		
 nrj hd,http://cdn.nrjaudio.fm/audio1/fr/40101/aac_576.mp3?origine=fluxradios
 oui fm,http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
 phare fm,http://str0.creacast.com/pharefm
@@ -31,12 +31,12 @@ skyrock,http://icecast.skyrock.net/s/natio_mp3_128k
 sud radio,http://start-sud.ice.infomaniak.ch/start-sud-high.mp3
 tsf jazz,http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 virgin radio,http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3
-ado FM,http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
-Africa ,http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+ado,http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
+africa,http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 alouette,http://alouette.ice.infomaniak.ch/alouette-high.mp3
 alpes 1 grenoble,http://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3
 alpes 1 sud,http://alpes1gap.ice.infomaniak.ch/alpes1gap-high.mp3			
-alta Frequenza,http://altafrequenza.streamakaci.com/altafrequenza.mp3
+alta frequenza,http://altafrequenza.streamakaci.com/altafrequenza.mp3
 beur fm,http://broadcast.infomaniak.ch/beurfm-high.mp3
 blackbox,http://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 champagne fm aisne,http://champagnefmaisne.ice.infomaniak.ch/champagnefm-64-aisne.mp3
@@ -59,7 +59,7 @@ forum,http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
 frequence plus,http://freqplus.ice.infomaniak.ch/freqplus-high.mp3
 generations,http://generationfm.ice.infomaniak.ch/generationfm-high.mp3		
 hit wes,http://broadcast.infomaniak.ch/hitwest-high.mp3			
-jordanne FM,http://live.jordannefm.com:8000/JFMCantalMD.mp3
+jordanne fm,http://live.jordannefm.com:8000/JFMCantalMD.mp3
 la radio plus alpes du nord,http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 La radio plus alpes du sud,http://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3
 ragnum la radio,http://str0.creacast.com/magnum			
@@ -75,8 +75,8 @@ radio espace,http://radioespace.ice.infomaniak.ch/radioespace-high.mp3
 radio esperance,http://stream.radio-esperance.net/esperance.mp3
 radio isa grenoble,http://radioisagrenoble.ice.infomaniak.ch/radioisagrenoble-128.mp3
 radio isa nord isere,http://radioisa.ice.infomaniak.ch/radioisa-128.mp3
-radio métropolys,http://str0.creacast.com/metropolys
-radio numéro 1,http://radiono1.ice.infomaniak.ch/radiono1-128.mp3
+radio metropolys,http://str0.creacast.com/metropolys
+radio numero 1,http://radiono1.ice.infomaniak.ch/radiono1-128.mp3
 radio scoop bourg en bresse,http://radioscoop-bourg.ice.infomaniak.ch:80/radioscoop-bourg-128
 radio scoop clermont-ferrand,http://radioscoop-clermont.ice.infomaniak.ch:80/radioscoop-clermont-128
 radio scoop lyon,http://radioscoop-lyon.ice.infomaniak.ch:80/radioscoop-lyon-128		
@@ -91,7 +91,7 @@ sensations normandie,http://sensationsnormandie.ice.infomaniak.ch/sensations-nor
 sensations yvelines,http://sensations.ice.infomaniak.ch/sensations.mp3		
 sweet fm alençon,http://62.210.214.169:8000/alc
 sweet fm craon,http://62.210.214.169:8000/cgr
-sweet fm l aigle,http://62.210.214.169:8000/aig
+sweet fm aigle,http://62.210.214.169:8000/aig
 sweet fm le mans,http://62.210.214.169:8000/lms
 sweet fm mamers,http://62.210.214.169:8000/mms
 sweet fm saint calais,http://62.210.214.169:8000/perche
@@ -102,7 +102,7 @@ radio 6 montreuil sur mer,http://radio6-montreuilsurmer.ice.infomaniak.ch/radio6
 tendance ouest manche,http://lasonotheque.org/UPLOAD/mp3/0313.mp3		
 tendance ouest orne,>http://streaming.tendanceouest.com/toorne.mp3
 top music colmar,http://str0.creacast.com/topmusic2
-top music Haguenau,http://str0.creacast.com/topmusic3			
+top music haguenau,http://str0.creacast.com/topmusic3			
 top music sarrebourg,http://str0.creacast.com/topmusic4
 top music saverne,http://str0.creacast.com/topmusic5		
 top music selestat,http://str0.creacast.com/topmusic6			
@@ -110,7 +110,7 @@ top music strasbourg,http://str0.creacast.com/topmusic1
 vibration,http://vibration.ice.infomaniak.ch/vibration-high.mp3		
 virage radio,http://virageradio.ice.infomaniak.ch/virageradio-high.mp3	
 voltage,http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3	
-wit FM,http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3			
+wit fm,http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3			
 100 pourcent albi,http://100radio-albi.ice.infomaniak.ch/100radio-albi-128.mp3		
 100 pourcent auch,http://100radio-auch.ice.infomaniak.ch/100radio-auch-128.mp3			
 100 pourcent carcassone,http://100radio-carcassonne.ice.infomaniak.ch/100radio-carcassonne-128.mp3
@@ -120,6 +120,11 @@ wit FM,http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
 100 pourcent pau,http://100radio-pau.ice.infomaniak.ch/100radio-pau-128.mp3		
 100 pourcent saint gaudens,http://100radio-stgaudens.ice.infomaniak.ch/100radio-stgaudens-128.mp3		
 100 pourcent tarbes,http://100radio-tarbes.ice.infomaniak.ch/100radio-tarbes-128.mp3		
-		
+	
+	
+	
+	
+	
+	
 			
 
